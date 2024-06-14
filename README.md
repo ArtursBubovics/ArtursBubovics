@@ -2,6 +2,20 @@
 
 # Hi👋 My name is Arthur!
 
+<div align="left">
+<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100017181036981" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/arturubu/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/linkedin.com/in/artur-bubovich-24a971219" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+<br>
+
 ## 👩‍💻 About me
 I am an aspiring Frontend Developer. My journey in IT began at Rīgas Valsts Tehnikums, where I obtained a programming diploma. During my studies and after graduation, I explored many directions, learning programming languages such as C#, C++, Python, and trying my hand at data science. However, what captured my interest the most was web development!
 
@@ -16,6 +30,8 @@ Currently, I am actively honing my skills and knowledge in this area.
 * ⚡ Ambitious, self-taught, and always seeking new solutions.
 
 * 💡 Create pet projects where I use new technologies and sharpen my skills.
+
+<br>
 
 ## 🛠 Skills
 
@@ -66,7 +82,10 @@ Currently, I am actively honing my skills and knowledge in this area.
    </div>
 </div>
 
+<br>
+
 ## 🔧 Tools
+
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="VS Code"  />
   <img width="12" />
@@ -81,3 +100,16 @@ Currently, I am actively honing my skills and knowledge in this area.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" height="40" alt="ChatGPT"  />
   <img width="12" />
 </div>
+
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ArtursBubovics&&style=flat-square" align="center" />
+</div>  
+
+
+
