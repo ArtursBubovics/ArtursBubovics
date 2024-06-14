@@ -102,9 +102,38 @@ Currently, I am actively honing my skills and knowledge in this area.
 </div>
 
 <br>
+
+## 🚀 My Projects
+
+* **ToDoList-NewTechnology** - This is a to do list project where I use new technologies for programming. This to do list differs from others in its unusual design and capabilities. I have been working on this project and will continue to do so. (https://github.com/ArtursBubovics/ToDoList-NewTechnology/tree/master)
+  
+    * Technology stack: **REACT**, **TS**, **MATERIAL UI**, **ExpresJS**, **Sql**, **Apollo Client/Server**, **GraphQL**, **PostgreSql**, **Yarn** and various bibliographies.
+  
+* **Convenient_creation_of_words_for_learning** - This is a project for convenient language learning using AI. The project differs from others in that it allows you to conveniently maintain a dictionary and create cards in Anki. At the moment, AI is used to generate sentences and transcribe words. I have been working on this project and will continue to do so. (https://github.com/ArtursBubovics/Convenient_creation_of_words_for_learning/tree/master)
+
+    * Technology stack: **Python**, **g4f**
+
+* **PROMHUB** - This is a mobile application template project that allows people to buy the cheapest things within a certain radius. I participated in this project as a Backend developer.
+  (https://github.com/MarksKolbanevs/PROMHUB/tree/main)
+
+    * Technology stack: **С#**, **ASP .NET**, **PostgreSQL**
+* **AirPods-website** - This is a project for my website spit training. This project is deployed and you can see how it looks like. (https://github.com/ArtursBubovics/AirPods-website)
+
+    * Technology stack: **HTML**, **SCSS**, **JS** 
+* **FID_FOOD** - This is a project for my thesis. This project was based on the idea that it is cheaper for some people to cook food that can be bought somewhere and for others to order it.
+  (https://github.com/ArtursBubovics/FID_FOOD)
+
+    * Technology stack: **HTML**, **SCSS**, **jQuery**, **jQuery Cookie**, **PHP**, **MySQL**, **XAMPP** and various bibliographies.
+
 <br>
-<br>
-<br>
+
+----
+
+<div align="center">
+    
+#### Thank you for your attention!
+
+</div>
 
 
 <div align="center">
