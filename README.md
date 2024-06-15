@@ -114,7 +114,7 @@ Currently, I am actively honing my skills and knowledge in this area.
     * Technology stack: **Python**, **g4f**
 
 * **PROMHUB** - This is a mobile application template project that allows people to buy the cheapest things within a certain radius. I participated in this project as a Backend developer.
-  (https://github.com/MarksKolbanevs/PROMHUB/tree/main)
+  (https://github.com/ORGANIZATION-PROMOFY/PROMHUB)
 
     * Technology stack: **С#**, **ASP .NET**, **PostgreSQL**
 * **AirPods-website** - This is a project for my website spit training. This project is deployed and you can see how it looks like. (https://github.com/ArtursBubovics/AirPods-website)
