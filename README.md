@@ -105,11 +105,11 @@ Currently, I am actively honing my skills and knowledge in this area.
 
 ## 🚀 My Projects
 
-* **ToDoList-NewTechnology** - This is a to do list project where I use new technologies for programming. This to do list differs from others in its unusual design and capabilities. I have been working on this project and will continue to do so. (https://github.com/ArtursBubovics/ToDoList-NewTechnology/tree/master)
+* **ToDoList-NewTechnology** - This is a to do list project where I use new technologies for programming. This to do list differs from others in its unusual design and capabilities. I have been working on this project and will continue to do so. (https://github.com/ArtursBubovics/ToDoList-NewTechnology/tree/main)
   
     * Technology stack: **REACT**, **TS**, **MATERIAL UI**, **ExpresJS**, **Sql**, **Apollo Client/Server**, **GraphQL**, **PostgreSql**, **Yarn** and various bibliographies.
   
-* **Convenient_creation_of_words_for_learning** - This is a project for convenient language learning using AI. The project differs from others in that it allows you to conveniently maintain a dictionary and create cards in Anki. At the moment, AI is used to generate sentences and transcribe words. I have been working on this project and will continue to do so. (https://github.com/ArtursBubovics/Convenient_creation_of_words_for_learning/tree/master)
+* **Convenient_creation_of_words_for_learning** - This is a project for convenient language learning using AI. The project differs from others in that it allows you to conveniently maintain a dictionary and create cards in Anki. At the moment, AI is used to generate sentences and transcribe words. I have been working on this project and will continue to do so. (https://github.com/ArtursBubovics/Convenient_creation_of_words_for_learning/tree/main)
 
     * Technology stack: **Python**, **g4f**
 
